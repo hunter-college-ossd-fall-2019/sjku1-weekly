@@ -9,7 +9,7 @@ name: Stephen Ku
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: Hi! My name is Stephen, I'm currently a student at Hunter College pursuing a major in computer science. Previously, I studied Architecture at The Cooper Union, but decided to pursue computer science after having found an interest in algorithms when writing scripts for the Grasshopper plug-in in Rhinoceros 3D.
+description: Hi! My name is Stephen, I'm an aspiring software engineer currently pursuing a major in computer science.
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -24,12 +24,12 @@ avatar: https://avatars3.githubusercontent.com/u/51339031?v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:    steveku622@gmail.com
+  email: steveku622@gmail.com
   facebook:
   flickr:
-  github:    hunter-college-ossd-fall-2019
+  github: https://github.com/sjku1
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/stephen-ku-41b903b5/
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
