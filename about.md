@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+Hi! My name is Stephen, I'm currently a student at Hunter College pursuing a major in computer science. Previously, I studied Architecture at The Cooper Union, but decided to pursue computer science after having found an interest in algorithms when writing scripts for the Grasshopper plug-in in Rhinoceros 3D.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In my free time, I wrestle pebbles.
 
