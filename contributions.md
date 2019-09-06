@@ -20,7 +20,7 @@ Replace the first row below with your contribution.
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  1   | [Week 1][1]     | Blog Edit     |   wrote first blog entry and set up my blog.    |
-|     |     |     |      |
+|  1   | [Week 2][1]     | Blog Edit     |   wrote second blog entry    |
 |     |     |     |      |
 
 
