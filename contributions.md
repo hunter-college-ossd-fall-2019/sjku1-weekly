@@ -24,6 +24,7 @@ Replace the first row below with your contribution.
 |  3   | [Week 3][3]     | Blog Edit     |   wrote third blog entry     |
 |  3   | [Open Street Map][4]     | OpenStreet Map feature     |   first contribution to Open Street Map     |
 |  3   | [Open Street Map][5]     | OpenStreet Map feature     |   second contribution to Open Street Map     |
+|  4   | [Week 4][6]     | Blog Edit     |   wrote fourth blog entry    |
 
 <!-- Week 1 -->
 [1]: https://hunter-college-ossd-fall-2019.github.io/sjku1-weekly/week01/
@@ -35,3 +36,6 @@ Replace the first row below with your contribution.
 [3]: https://hunter-college-ossd-fall-2019.github.io/sjku1-weekly/week03/
 [4]: https://www.openstreetmap.org/changeset/74403181
 [5]: https://www.openstreetmap.org/changeset/74404355
+
+<!-- Week 4 -->
+[1]: https://hunter-college-ossd-fall-2019.github.io/sjku1-weekly/week04/
