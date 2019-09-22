@@ -38,4 +38,4 @@ Replace the first row below with your contribution.
 [5]: https://www.openstreetmap.org/changeset/74404355
 
 <!-- Week 4 -->
-[1]: https://hunter-college-ossd-fall-2019.github.io/sjku1-weekly/week04/
+[6]: https://hunter-college-ossd-fall-2019.github.io/sjku1-weekly/week04/
