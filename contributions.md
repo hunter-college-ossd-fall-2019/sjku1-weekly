@@ -22,8 +22,8 @@ Replace the first row below with your contribution.
 |  1   | [Week 1][1]     | Blog Edit     |   wrote first blog entry and set up my blog.    |
 |  2   | [Week 2][2]     | Blog Edit     |   wrote second blog entry    |
 |  3   | [Week 3][3]     | Blog Edit     |   wrote third blog entry     |
-|  3   | [Open Street Map][4]     | OpenStreet Map feature     |   first contribution to Open Street Map     |
-|  3   | [Open Street Map][5]     | OpenStreet Map feature     |   second contribution to Open Street Map     |
+|  3   | [Week 3][4]     | OpenStreet Map feature     |   first contribution to Open Street Map     |
+|  3   | [Week 3][5]     | OpenStreet Map feature     |   second contribution to Open Street Map     |
 |  4   | [Week 4][6]     | Blog Edit     |   wrote fourth blog entry    |
 |  5   | [Week 5][7]     | Blog Edit     |   wrote fifth blog entry     |
 |  5   | [Week 5][8]     | Blog Edit     |   made blog edit to classmate's blog     |
