@@ -24,8 +24,8 @@ Replace the first row below with your contribution.
 |  3   | [Week 3][5]     | OpenStreet Map feature     |   second contribution to Open Street Map     |
 |  5   | [Week 5][8]     | Blog Edit     |   made blog edit to classmate's blog     |
 |  5   | [Week 5][9]     | Team Workflow     |   team workflow activity     |
-
-
+|  7   | [week 7][11]    | Project Code     |   made contribution to [First Contributions][10]     |
+ 
 <!-- Week 1 -->
 [1]: https://hunter-college-ossd-fall-2019.github.io/sjku1-weekly/week01/
 
@@ -45,4 +45,6 @@ Replace the first row below with your contribution.
 [8]: https://github.com/hunter-college-ossd-fall-2019/Zabari-weekly/pull/6
 [9]: https://github.com/hunter-college-ossd-fall-2019/RAS-Dazzle-workflow.git
 
-
+<!-- Week 7 --> 
+[10]: https://github.com/firstcontributions/first-contributions
+[11]: https://github.com/firstcontributions/first-contributions/pull/21566
