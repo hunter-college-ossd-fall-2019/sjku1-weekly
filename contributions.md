@@ -19,7 +19,6 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  1   | [Week 1][1]     | Blog Edit     |   wrote first blog entry and set up my blog.    |
 |  3   | [Week 3][4]     | OpenStreet Map feature     |   first contribution to Open Street Map     |
 |  3   | [Week 3][5]     | OpenStreet Map feature     |   second contribution to Open Street Map     |
 |  5   | [Week 5][8]     | Blog Edit     |   made blog edit to classmate's blog     |
