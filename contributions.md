@@ -24,6 +24,12 @@ Replace the first row below with your contribution.
 |  5   | [Week 5][8]     | Blog Edit     |   made blog edit to classmate's blog     |
 |  5   | [Week 5][9]     | Team Workflow     |   team workflow activity     |
 |  7   | [week 7][11]    | Project Code     |   made contribution to [First Contributions][10]     |
+|  8   | [week 8][12]    | OpenStreet Map feature     |   third contribution to Open Street Map     |
+|  8   | [week 8][13]    | OpenStreet Map feature     |   fourth contribution to Open Street Map     |
+|  8   | [week 8][14]    | OpenStreet Map feature     |   fifth contribution to Open Street Map     |
+
+
+
  
 <!-- Week 1 -->
 [1]: https://hunter-college-ossd-fall-2019.github.io/sjku1-weekly/week01/
@@ -47,3 +53,11 @@ Replace the first row below with your contribution.
 <!-- Week 7 --> 
 [10]: https://github.com/firstcontributions/first-contributions
 [11]: https://github.com/firstcontributions/first-contributions/pull/21566
+
+<!-- Week 8 -->
+<!-- add Betsy Sluder Nature Preserve -->
+[12]: https://www.openstreetmap.org/changeset/76115081#map=16/41.1212/-73.7232
+<!-- add Aesop's Fable Restaurant -->
+[13]: https://www.openstreetmap.org/changeset/76115273#map=19/41.15953/-73.77294
+<!-- add Whole Foods -->
+[14]: https://www.openstreetmap.org/changeset/76115386
