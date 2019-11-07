@@ -19,14 +19,14 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  3   | [Week 3][4]     | OpenStreet Map feature     |   first contribution to Open Street Map     |
-|  3   | [Week 3][5]     | OpenStreet Map feature     |   second contribution to Open Street Map     |
+|  3   | [Week 3][4]     | OpenStreet Map feature     |   added location of Ice Pond Preserve trailhead     |
+|  3   | [Week 3][5]     | OpenStreet Map feature     |   added Worthless Boulder landmark for climbing in Central Park     |
 |  5   | [Week 5][8]     | Blog Edit     |   made blog edit to classmate's blog     |
 |  5   | [Week 5][9]     | Team Workflow     |   team workflow activity     |
 |  7   | [week 7][11]    | Project Code     |   made contribution to [First Contributions][10]     |
-|  8   | [week 8][12]    | OpenStreet Map feature     |   third contribution to Open Street Map     |
-|  8   | [week 8][13]    | OpenStreet Map feature     |   fourth contribution to Open Street Map     |
-|  8   | [week 8][14]    | OpenStreet Map feature     |   fifth contribution to Open Street Map     |
+|  8   | [week 8][12]    | OpenStreet Map feature     |   added Betsy Sluder Nature Preserve as a park     |
+|  8   | [week 8][13]    | OpenStreet Map feature     |   added Aesop's Fable restaurant to replace previous listing     |
+|  8   | [week 8][14]    | OpenStreet Map feature     |   added Whole Foods location     |
 
 
 
