@@ -19,18 +19,17 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  3   | [Week 3][4]     | OpenStreet Map feature     |   added location of Ice Pond Preserve trailhead     |
-|  3   | [Week 3][5]     | OpenStreet Map feature     |   added Worthless Boulder landmark for climbing in Central Park     |
-|  5   | [Week 5][8]     | Blog Edit     |   made blog edit to classmate's blog     |
-|  5   | [Week 5][9]     | Team Workflow     |   team workflow activity     |
+|  3   | [week 3][4]     | OpenStreet Map feature     |   added location of Ice Pond Preserve trailhead     |
+|  3   | [week 3][5]     | OpenStreet Map feature     |   added Worthless Boulder landmark for climbing in Central Park     |
+|  5   | [week 5][8]     | Blog Edit     |   made blog edit to classmate's blog     |
+|  5   | [week 5][9]     | Team Workflow     |   team workflow activity     |
 |  7   | [week 7][11]    | Project Code     |   made contribution to [First Contributions][10]     |
 |  8   | [week 8][12]    | OpenStreet Map feature     |   added Betsy Sluder Nature Preserve as a park     |
 |  8   | [week 8][13]    | OpenStreet Map feature     |   added Aesop's Fable restaurant to replace previous listing     |
 |  8   | [week 8][14]    | OpenStreet Map feature     |   added Whole Foods location     |
-|  10   | [week 10][14]    | Wikipedia edit     |   edit bouldering techniques     |
-
-
-
+|  11   | [week 11][15]    | Wikipedia edit     |   edit bouldering by modifying adding further detail to techniques section   |
+|  11   | [week 11][16]    | Wikipedia edit     |   edit Shawangunk Ridge by fixing typo in public lands and preserves section     |
+|  11   | [week 11][17]    | Wikipedia edit     |   edit Shawangunk Ridge by fixing typo in recreation section     |
 
  
 <!-- Week 1 -->
@@ -67,4 +66,9 @@ Replace the first row below with your contribution.
 <!-- Week 9 -->
 <!-- edit bouldering techniques -->
 [15]: https://en.wikipedia.org/w/index.php?title=Bouldering&diff=prev&oldid=926003731
+<!-- edit Shawangunk Ridge public lands and preserves -->
+[16]: https://en.wikipedia.org/w/index.php?title=Shawangunk_Ridge&diff=prev&oldid=926022313
+<!-- edit Shawangunk Ridge recreation -->
+[17]: https://en.wikipedia.org/w/index.php?title=Shawangunk_Ridge&diff=prev&oldid=926022355
+
 
