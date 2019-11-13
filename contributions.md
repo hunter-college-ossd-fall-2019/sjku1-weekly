@@ -27,6 +27,8 @@ Replace the first row below with your contribution.
 |  8   | [week 8][12]    | OpenStreet Map feature     |   added Betsy Sluder Nature Preserve as a park     |
 |  8   | [week 8][13]    | OpenStreet Map feature     |   added Aesop's Fable restaurant to replace previous listing     |
 |  8   | [week 8][14]    | OpenStreet Map feature     |   added Whole Foods location     |
+|  10   | [week 10][14]    | Wikipedia edit     |   edit bouldering techniques     |
+
 
 
 
@@ -61,3 +63,8 @@ Replace the first row below with your contribution.
 [13]: https://www.openstreetmap.org/changeset/76115273#map=19/41.15953/-73.77294
 <!-- add Whole Foods -->
 [14]: https://www.openstreetmap.org/changeset/76115386
+
+<!-- Week 9 -->
+<!-- edit bouldering techniques -->
+[15]: https://en.wikipedia.org/w/index.php?title=Bouldering&diff=prev&oldid=926003731
+
