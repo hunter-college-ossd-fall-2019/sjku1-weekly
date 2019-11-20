@@ -30,6 +30,8 @@ Replace the first row below with your contribution.
 |  11   | [week 11][15]    | Wikipedia edit     |   edit bouldering by modifying adding further detail to techniques section   |
 |  11   | [week 11][16]    | Wikipedia edit     |   edit Shawangunk Ridge by fixing typo in public lands and preserves section     |
 |  11   | [week 11][17]    | Wikipedia edit     |   edit Shawangunk Ridge by fixing typo in recreation section     |
+|  12   | [week 12][18]    | Wikipedia edit     |   edit Shawangunk Ridge by fixing broken link in recreation section     |
+
 
  
 <!-- Week 1 -->
@@ -63,7 +65,7 @@ Replace the first row below with your contribution.
 <!-- add Whole Foods -->
 [14]: https://www.openstreetmap.org/changeset/76115386
 
-<!-- Week 9 -->
+<!-- Week 11 -->
 <!-- edit bouldering techniques -->
 [15]: https://en.wikipedia.org/w/index.php?title=Bouldering&diff=prev&oldid=926003731
 <!-- edit Shawangunk Ridge public lands and preserves -->
@@ -71,4 +73,7 @@ Replace the first row below with your contribution.
 <!-- edit Shawangunk Ridge recreation -->
 [17]: https://en.wikipedia.org/w/index.php?title=Shawangunk_Ridge&diff=prev&oldid=926022355
 
-
+<!-- Week 12 -->
+[10]: https://en.wikipedia.org/w/index.php?title=Shawangunk_Ridge&diff=prev&oldid=927054342
+[11]:
+[12]: https://github.com/gatsbyjs/gatsby/pull/19645
