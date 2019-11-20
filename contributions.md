@@ -76,6 +76,6 @@ Replace the first row below with your contribution.
 [17]: https://en.wikipedia.org/w/index.php?title=Shawangunk_Ridge&diff=prev&oldid=926022355
 
 <!-- Week 12 -->
-[10]: https://en.wikipedia.org/w/index.php?title=Shawangunk_Ridge&diff=prev&oldid=927054342
-[11]: https://en.wikipedia.org/w/index.php?title=Alex_Megos&diff=prev&oldid=927069198
-[12]: https://github.com/gatsbyjs/gatsby/pull/19645
+[18]: https://en.wikipedia.org/w/index.php?title=Shawangunk_Ridge&diff=prev&oldid=927054342
+[19]: https://en.wikipedia.org/w/index.php?title=Alex_Megos&diff=prev&oldid=927069198
+[20]: https://github.com/gatsbyjs/gatsby/pull/19645
