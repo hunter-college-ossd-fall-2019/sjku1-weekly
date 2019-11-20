@@ -28,9 +28,11 @@ Replace the first row below with your contribution.
 |  8   | [week 8][13]    | OpenStreet Map feature     |   added Aesop's Fable restaurant to replace previous listing     |
 |  8   | [week 8][14]    | OpenStreet Map feature     |   added Whole Foods location     |
 |  11   | [week 11][15]    | Wikipedia edit     |   edit bouldering by modifying adding further detail to techniques section   |
-|  11   | [week 11][16]    | Wikipedia edit     |   edit Shawangunk Ridge by fixing typo in public lands and preserves section     |
-|  11   | [week 11][17]    | Wikipedia edit     |   edit Shawangunk Ridge by fixing typo in recreation section     |
-|  12   | [week 12][18]    | Wikipedia edit     |   edit Shawangunk Ridge by fixing broken link in recreation section     |
+|  11   | [week 11][16]    | Wikipedia edit     |   edit Shawangunk Ridge page by fixing typo in public lands and preserves section     |
+|  11   | [week 11][17]    | Wikipedia edit     |   edit Shawangunk Ridge page by fixing typo in recreation section     |
+|  12   | [week 12][18]    | Wikipedia edit     |   edit Shawangunk Ridge page by fixing broken link in public lands and preserves section     |
+|  12   | [week 12][19]    | Wikipedia edit     |   edit Alex Megos' page by adding link and editing climbing career section     |
+|  12   | [week 12][20]    | Gatsby documentation     |   submitted pull request to fix broken links in Gatsby documentation     |
 
 
  
@@ -75,5 +77,5 @@ Replace the first row below with your contribution.
 
 <!-- Week 12 -->
 [10]: https://en.wikipedia.org/w/index.php?title=Shawangunk_Ridge&diff=prev&oldid=927054342
-[11]:
+[11]: https://en.wikipedia.org/w/index.php?title=Alex_Megos&diff=prev&oldid=927069198
 [12]: https://github.com/gatsbyjs/gatsby/pull/19645
