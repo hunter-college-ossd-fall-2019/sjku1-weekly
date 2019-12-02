@@ -19,20 +19,20 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  3   | [week 3][4]     | OpenStreet Map feature     |   added location of Ice Pond Preserve trailhead     |
-|  3   | [week 3][5]     | OpenStreet Map feature     |   added Worthless Boulder landmark for climbing in Central Park     |
-|  5   | [week 5][8]     | Blog Edit     |   made blog edit to classmate's blog     |
-|  5   | [week 5][9]     | Team Workflow     |   team workflow activity     |
-|  7   | [week 7][11]    | Project Code     |   made contribution to [First Contributions][10]     |
-|  8   | [week 8][12]    | OpenStreet Map feature     |   added Betsy Sluder Nature Preserve as a park     |
-|  8   | [week 8][13]    | OpenStreet Map feature     |   added Aesop's Fable restaurant to replace previous listing     |
-|  8   | [week 8][14]    | OpenStreet Map feature     |   added Whole Foods location     |
-|  11   | [week 11][15]    | Wikipedia edit     |   edit bouldering by modifying adding further detail to techniques section   |
-|  11   | [week 11][16]    | Wikipedia edit     |   edit Shawangunk Ridge page by fixing typo in public lands and preserves section     |
-|  11   | [week 11][17]    | Wikipedia edit     |   edit Shawangunk Ridge page by fixing typo in recreation section     |
-|  12   | [week 12][18]    | Wikipedia edit     |   edit Shawangunk Ridge page by fixing broken link in public lands and preserves section     |
-|  12   | [week 12][19]    | Wikipedia edit     |   edit Alex Megos' page by adding link and editing climbing career section     |
-|  12   | [week 12][20]    | Gatsby documentation     |   submitted pull request to fix broken links in Gatsby documentation     |
+|  3   | [Contribution][4]     | OpenStreet Map feature     |   added location of Ice Pond Preserve trailhead     |
+|  3   | [Contribution][5]     | OpenStreet Map feature     |   added Worthless Boulder landmark for climbing in Central Park     |
+|  5   | [Pull Request][8]     | Blog Edit     |   made blog edit to classmate's blog     |
+|  5   | [Workflow][9]     | Team Workflow     |   team workflow activity     |
+|  7   | [Contribution][11]    | Project Code     |   made contribution to [First Contributions][10]     |
+|  8   | [Contribution][12]    | OpenStreet Map feature     |   added Betsy Sluder Nature Preserve as a park     |
+|  8   | [Contribution][13]    | OpenStreet Map feature     |   added Aesop's Fable restaurant to replace previous listing     |
+|  8   | [Contribution][14]    | OpenStreet Map feature     |   added Whole Foods location     |
+|  11   | [Edit][15]    | Wikipedia edit     |   edit bouldering by modifying adding further detail to techniques section   |
+|  11   | [Edit][16]    | Wikipedia edit     |   edit Shawangunk Ridge page by fixing typo in public lands and preserves section     |
+|  11   | [Edit][17]    | Wikipedia edit     |   edit Shawangunk Ridge page by fixing typo in recreation section     |
+|  12   | [Edit][18]    | Wikipedia edit     |   edit Shawangunk Ridge page by fixing broken link in public lands and preserves section     |
+|  12   | [Edit][19]    | Wikipedia edit     |   edit Alex Megos' page by adding link and editing climbing career section     |
+|  12   | [Pull Request][20]    | Gatsby documentation     |   submitted pull request to fix broken links in Gatsby documentation     |
 
 
  
