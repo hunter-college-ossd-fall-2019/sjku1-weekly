@@ -33,8 +33,7 @@ Replace the first row below with your contribution.
 |  12   | [Edit][18]    | Wikipedia edit     |   edit Shawangunk Ridge page by fixing broken link in public lands and preserves section     |
 |  12   | [Edit][19]    | Wikipedia edit     |   edit Alex Megos' page by adding link and editing climbing career section     |
 |  12   | [Pull Request][20]    | Gatsby documentation     |   submitted pull request to fix broken links in Gatsby documentation     |
-
-
+|  14   | [Pull Request][21]    | Gatsby documentation     |   submitted pull request to improve environment variables docs in Gatsby documentation     |
  
 <!-- Week 1 -->
 [1]: https://hunter-college-ossd-fall-2019.github.io/sjku1-weekly/week01/
@@ -79,3 +78,4 @@ Replace the first row below with your contribution.
 [18]: https://en.wikipedia.org/w/index.php?title=Shawangunk_Ridge&diff=prev&oldid=927054342
 [19]: https://en.wikipedia.org/w/index.php?title=Alex_Megos&diff=prev&oldid=927069198
 [20]: https://github.com/gatsbyjs/gatsby/pull/19645
+[21]: https://github.com/gatsbyjs/gatsby/pull/20087
