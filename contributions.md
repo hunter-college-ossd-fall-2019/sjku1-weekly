@@ -22,7 +22,6 @@ Replace the first row below with your contribution.
 |  3   | [Contribution][4]     | OpenStreet Map feature     |   added location of Ice Pond Preserve trailhead     |
 |  3   | [Contribution][5]     | OpenStreet Map feature     |   added Worthless Boulder landmark for climbing in Central Park     |
 |  5   | [Pull Request][8]     | Blog Edit     |   made blog edit to classmate's blog     |
-|  5   | [Workflow][9]     | Team Workflow     |   team workflow activity     |
 |  7   | [Contribution][11]    | Project Code     |   made contribution to [First Contributions][10]     |
 |  8   | [Contribution][12]    | OpenStreet Map feature     |   added Betsy Sluder Nature Preserve as a park     |
 |  8   | [Contribution][13]    | OpenStreet Map feature     |   added Aesop's Fable restaurant to replace previous listing     |
@@ -50,9 +49,7 @@ Replace the first row below with your contribution.
 [6]: https://hunter-college-ossd-fall-2019.github.io/sjku1-weekly/week04/
 
 <!-- Week 5 -->
-[7]: https://hunter-college-ossd-fall-2019.github.io/sjku1-weekly/week05/
 [8]: https://github.com/hunter-college-ossd-fall-2019/Zabari-weekly/pull/6
-[9]: https://github.com/hunter-college-ossd-fall-2019/RAS-Dazzle-workflow.git
 
 <!-- Week 7 --> 
 [10]: https://github.com/firstcontributions/first-contributions
